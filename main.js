@@ -130,7 +130,7 @@ window.onload=function(){
  }
  
  function getreflink(){
-  document.getElementById('refaddress').value = 'https://link/?ref=' + document.getElementById('refaddress').value;
+  document.getElementById('refaddress').value = 'https://https://metamars-org.github.io/?ref=' + document.getElementById('refaddress').value;
 }
 function copyToClipboard(id) {
     var text = document.getElementById(id).value; //getting the text from that particular Row
